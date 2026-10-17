@@ -1,3 +1,4 @@
+<img width="1417" height="690" alt="Screenshot 2026-10-17 192940" src="https://github.com/user-attachments/assets/5d2c4fdc-ea15-4854-8069-1b1aeea02262" />
 # ABC-Executive--Summary----Profitability--Dashboard
 Interactive Excel Executive Summary &amp; Profitability Dashboard analyzing $645K+ revenue, profit margins, sales channels, and regional performance with dynamic slicers.
 Plaintext
